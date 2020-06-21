@@ -12,4 +12,8 @@ public class TestGitHubSecond {
     public void newTest01(){
         System.out.println("New method!");
     }
+    
+    public void newTest02(){
+        x = 8;
+    }
 }
